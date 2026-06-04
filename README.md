@@ -1,5 +1,5 @@
 # secure-enterprise-network
-Enterprise network simulation using OSPF, DHCP, ACL, and SSH security in Cisco Packet Tracer.
+Enterprise network simulation using OSPF, DHCP, and SSH security in Cisco Packet Tracer.
 # Secure Enterprise Network Design
 
 ## Project Overview
@@ -10,7 +10,6 @@ Designed and simulated a secure enterprise network using Cisco Packet Tracer to 
 
 * OSPF Routing
 * DHCP
-* ACL (Access Control List)
 * SSH Security
 * FTP Services
 * Email Services
@@ -20,7 +19,6 @@ Designed and simulated a secure enterprise network using Cisco Packet Tracer to 
 * Dynamic routing using OSPF
 * Automatic IP allocation using DHCP
 * Secure remote access using SSH
-* Restricted unauthorized access using ACL
 * FTP and email communication testing
 
 ## Tools Used
