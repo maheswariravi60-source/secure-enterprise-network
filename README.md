@@ -41,3 +41,20 @@ To design a secure and scalable enterprise network infrastructure with routing, 
 ## Outcome
 
 Successfully simulated secure communication between multiple network branches and validated network functionality through connectivity testing.
+
+## Screenshots
+
+### Network Topology
+![Topology](Topology.png)
+
+### OSPF Configuration
+![OSPF](ospf-config.png)
+
+### DHCP Configuration
+![DHCP](dhcp.config.png)
+
+### SSH Configuration
+![SSH](ssh.config.png)
+
+### Email Communication Test
+![Email](email-test.png)
